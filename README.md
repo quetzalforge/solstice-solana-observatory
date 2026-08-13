@@ -2,7 +2,7 @@
 
 Solstice turns live Solana network and market data into one automatically updating field report. It combines direct JSON-RPC measurements with public DefiLlama feeds, then publishes the same snapshot as an interactive HTML dashboard, machine-readable JSON, and human-readable Markdown.
 
-> Live demo: deployment URL is added here during release.
+> Live demo: https://solstice-solana-observatory.jocund-morel-7157.chatgpt.site
 
 ## What makes it useful
 
