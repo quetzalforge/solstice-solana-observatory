@@ -1,6 +1,6 @@
 # Solstice — Solana Ecosystem Pulse
 
-Generated: 2026-08-17T23:58:01.511795Z
+Generated: 2026-08-18T03:13:26.957738Z
 
 ## Network
 
@@ -24,10 +24,10 @@ Generated: 2026-08-17T23:58:01.511795Z
 
 | Metric | Value |
 | --- | ---: |
-| SOL price | 75.95 USD |
-| Solana TVL | 4,845,913,431.74 USD |
-| Stablecoin supply | 15,309,917,315.08 USD |
-| DEX volume (24h) | 1,055,467,633.95 USD |
+| SOL price | 75.28 USD |
+| Solana TVL | 4,847,694,694.67 USD |
+| Stablecoin supply | 15,325,517,742.78 USD |
+| DEX volume (24h) | 1,425,243,228.36 USD |
 
 ## Signals
 
