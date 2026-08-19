@@ -1,44 +1,44 @@
 # Solstice — Solana Ecosystem Pulse
 
-Generated: 2026-08-19T05:51:57.329111Z
+Generated: 2026-08-19T08:05:58.628633Z
 
 ## Network
 
 | Metric | Value |
 | --- | ---: |
-| Health | ok |
-| Slot | 440,208,102.00 |
-| Epoch | 1,019.00 (0.02%) |
-| TPS | 2,831.17 |
-| Slot time | 408.16 ms |
+| Health | Unavailable |
+| Slot | Unavailable |
+| Epoch | Unavailable (Unavailable) |
+| TPS | Unavailable |
+| Slot time | Unavailable |
 
 ## Validators
 
 | Metric | Value |
 | --- | ---: |
-| Active | 688.00 |
-| Delinquent | 7.00 |
-| Delinquent share | 1.01% |
+| Active | Unavailable |
+| Delinquent | Unavailable |
+| Delinquent share | Unavailable |
 
 ## Economics
 
 | Metric | Value |
 | --- | ---: |
-| SOL price | 76.80 USD |
-| Solana TVL | 4,898,037,937.70 USD |
-| Stablecoin supply | 15,417,283,214.04 USD |
+| SOL price | 76.87 USD |
+| Solana TVL | 4,892,675,695.16 USD |
+| Stablecoin supply | 15,375,882,280.17 USD |
 | DEX volume (24h) | 1,820,756,097.04 USD |
 
 ## Signals
 
-- **INFO — No material anomalies detected:** Indicators are within their recent operating ranges.
+- **INFO — Partial source degradation:** 1 data source(s) unavailable; healthy sources remain visible.
 
 ## Source health
 
 - DefiLlama DEX Volume: live
 - DefiLlama Price: live
 - DefiLlama Price History: live
-- Solana RPC: live
+- Solana RPC: degraded
 - DefiLlama Stablecoins: live
 - DefiLlama TVL: live
 - DefiLlama TVL History: live
