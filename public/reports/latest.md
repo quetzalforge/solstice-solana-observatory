@@ -1,16 +1,16 @@
 # Solstice — Solana Ecosystem Pulse
 
-Generated: 2026-09-04T03:29:06.958409Z
+Generated: 2026-09-04T04:29:42.521843Z
 
 ## Network
 
 | Metric | Value |
 | --- | ---: |
 | Health | ok |
-| Slot | 444,142,456.00 |
-| Epoch | 1,028.00 (10.75%) |
-| TPS | 3,067.18 |
-| Slot time | 312.50 ms |
+| Slot | 444,153,994.00 |
+| Epoch | 1,028.00 (13.42%) |
+| TPS | 3,697.67 |
+| Slot time | 314.14 ms |
 
 ## Validators
 
@@ -24,14 +24,15 @@ Generated: 2026-09-04T03:29:06.958409Z
 
 | Metric | Value |
 | --- | ---: |
-| SOL price | 103.90 USD |
-| Solana TVL | 5,927,282,024.34 USD |
-| Stablecoin supply | 16,249,325,326.41 USD |
+| SOL price | 103.98 USD |
+| Solana TVL | 5,919,397,527.28 USD |
+| Stablecoin supply | 16,190,073,027.79 USD |
 | DEX volume (24h) | 2,373,588,819.80 USD |
 
 ## Signals
 
 - **WARNING — Validator delinquency elevated:** 2.59% of vote accounts are delinquent.
+- **CRITICAL — Transaction throughput spike:** Latest TPS is 3.4 standard deviations from its recent mean.
 
 ## Source health
 
