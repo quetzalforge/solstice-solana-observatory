@@ -1,16 +1,16 @@
 # Solstice — Solana Ecosystem Pulse
 
-Generated: 2026-09-06T20:28:46.447393Z
+Generated: 2026-09-06T21:27:13.286423Z
 
 ## Network
 
 | Metric | Value |
 | --- | ---: |
 | Health | ok |
-| Slot | 444,883,564.00 |
-| Epoch | 1,029.00 (82.31%) |
-| TPS | 3,800.13 |
-| Slot time | 315.79 ms |
+| Slot | 444,894,686.00 |
+| Epoch | 1,029.00 (84.88%) |
+| TPS | 3,598.15 |
+| Slot time | 312.50 ms |
 
 ## Validators
 
@@ -24,19 +24,18 @@ Generated: 2026-09-06T20:28:46.447393Z
 
 | Metric | Value |
 | --- | ---: |
-| SOL price | 105.63 USD |
+| SOL price | 106.08 USD |
 | Solana TVL | 5,924,761,772.53 USD |
 | Stablecoin supply | 16,351,596,470.01 USD |
-| DEX volume (24h) | Unavailable |
+| DEX volume (24h) | 1,960,574,882.81 USD |
 
 ## Signals
 
 - **WARNING — Validator delinquency elevated:** 2.45% of vote accounts are delinquent.
-- **INFO — Partial source degradation:** 1 data source(s) unavailable; healthy sources remain visible.
 
 ## Source health
 
-- DefiLlama DEX Volume: degraded
+- DefiLlama DEX Volume: live
 - DefiLlama Price: live
 - DefiLlama Price History: live
 - Solana RPC: live
