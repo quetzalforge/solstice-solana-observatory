@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-03T21:23:16.255363Z",
+  "generatedAt": "2026-10-04T00:42:29.321737Z",
   "network": {
     "health": "ok",
     "version": "4.3.0",
-    "slot": 453053247,
+    "slot": 453097924,
     "epoch": 1048,
-    "epochProgress": 73.43680555555555,
-    "tps": 4870.116666666667,
-    "nonVoteTps": 2408.1,
-    "averageTps": 4897.464722222223,
-    "slotTimeMs": 271.49321266968326,
-    "transactionCount": 555727972444,
-    "circulatingSupply": 588145621.5736415
+    "epochProgress": 83.77870370370371,
+    "tps": 4414.516666666666,
+    "nonVoteTps": 1851.45,
+    "averageTps": 4715.7683333333325,
+    "slotTimeMs": 262.0087336244541,
+    "transactionCount": 555783881895,
+    "circulatingSupply": 588145475.3273014
   },
   "validators": {
     "active": 671,
@@ -20,173 +20,169 @@
     "activeStakeSol": 441856663.0986772
   },
   "economics": {
-    "solPrice": 119.72871517640515,
-    "priceChange7d": -2.430809402128745,
-    "tvl": 6667517929.084548,
-    "tvlChange7d": 0.4662196451223833,
-    "stablecoinSupply": 16531481552.078733,
-    "dexVolume24h": 2760296309.96,
-    "dexChange1d": 10.92,
-    "dexChange7d": 5.64
+    "solPrice": 120.04770351261128,
+    "priceChange7d": -1.6113192834575727,
+    "tvl": 6668417063.258353,
+    "tvlChange7d": -0.255904922261395,
+    "stablecoinSupply": 16521762876.290453,
+    "dexVolume24h": 2200181747.5,
+    "dexChange1d": -20.29,
+    "dexChange7d": 2.08
   },
   "trends": {
     "tps": [
       {
-        "timestamp": 1791062529,
-        "value": 4761.533333333334
+        "timestamp": 1791074483,
+        "value": 4949.666666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 4938.433333333333
+        "timestamp": 1791074483,
+        "value": 4702.333333333333
       },
       {
-        "timestamp": 1791062529,
-        "value": 4992.85
+        "timestamp": 1791074483,
+        "value": 4486.333333333333
       },
       {
-        "timestamp": 1791062529,
-        "value": 5005.383333333333
+        "timestamp": 1791074483,
+        "value": 4783.8
       },
       {
-        "timestamp": 1791062529,
-        "value": 5091.816666666667
+        "timestamp": 1791074483,
+        "value": 4592.366666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 4888.033333333334
+        "timestamp": 1791074483,
+        "value": 4512.733333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 4925.016666666666
+        "timestamp": 1791074483,
+        "value": 4379.25
       },
       {
-        "timestamp": 1791062529,
-        "value": 4836.983333333334
+        "timestamp": 1791074483,
+        "value": 4625.433333333333
       },
       {
-        "timestamp": 1791062529,
-        "value": 4810.9
+        "timestamp": 1791074483,
+        "value": 4861.95
       },
       {
-        "timestamp": 1791062529,
-        "value": 4902.2
+        "timestamp": 1791074483,
+        "value": 4726.866666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 4735.033333333334
+        "timestamp": 1791074483,
+        "value": 4942.483333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 4911.633333333333
+        "timestamp": 1791074483,
+        "value": 5165.683333333333
       },
       {
-        "timestamp": 1791062529,
-        "value": 4894.933333333333
+        "timestamp": 1791074483,
+        "value": 4798.9
       },
       {
-        "timestamp": 1791062529,
-        "value": 5183.483333333334
+        "timestamp": 1791074483,
+        "value": 4680.866666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 5096.416666666667
+        "timestamp": 1791074483,
+        "value": 4829.566666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 4908.433333333333
+        "timestamp": 1791074483,
+        "value": 4413.3
       },
       {
-        "timestamp": 1791062529,
-        "value": 4964.666666666667
+        "timestamp": 1791074483,
+        "value": 4901.8
       },
       {
-        "timestamp": 1791062529,
-        "value": 4885.1
+        "timestamp": 1791074483,
+        "value": 4847.15
       },
       {
-        "timestamp": 1791062529,
-        "value": 4837.066666666667
+        "timestamp": 1791074483,
+        "value": 4745.116666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 5093.183333333333
+        "timestamp": 1791074483,
+        "value": 4561.866666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 5054.866666666667
+        "timestamp": 1791074483,
+        "value": 4353.233333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 4870.383333333333
+        "timestamp": 1791074483,
+        "value": 4519.95
       },
       {
-        "timestamp": 1791062529,
-        "value": 4922.983333333334
+        "timestamp": 1791074483,
+        "value": 4444.533333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 4951.9
+        "timestamp": 1791074483,
+        "value": 4472.166666666667
       },
       {
-        "timestamp": 1791062529,
-        "value": 5062.583333333333
+        "timestamp": 1791074483,
+        "value": 4653.25
       },
       {
-        "timestamp": 1791062529,
-        "value": 5022.533333333334
+        "timestamp": 1791074483,
+        "value": 4405.483333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 5080.216666666666
+        "timestamp": 1791074483,
+        "value": 4562.983333333334
       },
       {
-        "timestamp": 1791062529,
-        "value": 5088.733333333334
+        "timestamp": 1791074483,
+        "value": 4533.55
       },
       {
-        "timestamp": 1791062529,
-        "value": 4842.75
+        "timestamp": 1791074483,
+        "value": 4551.05
       },
       {
-        "timestamp": 1791062529,
-        "value": 4870.116666666667
+        "timestamp": 1791074483,
+        "value": 4414.516666666666
       }
     ],
     "solPrice": [
       {
-        "timestamp": 1790457760,
-        "value": 120.94731149643955
+        "timestamp": 1790469760,
+        "value": 120.9982041171863
       },
       {
-        "timestamp": 1790544160,
-        "value": 122.94854659807619
+        "timestamp": 1790556160,
+        "value": 121.57149683383899
       },
       {
-        "timestamp": 1790630570,
-        "value": 118.41421069791767
+        "timestamp": 1790642570,
+        "value": 118.95834996799915
       },
       {
-        "timestamp": 1790716960,
-        "value": 118.78533820297055
+        "timestamp": 1790728960,
+        "value": 118.84049150392342
       },
       {
-        "timestamp": 1790803360,
-        "value": 118.02312274614151
+        "timestamp": 1790815370,
+        "value": 118.01392466024895
       },
       {
-        "timestamp": 1790889770,
-        "value": 117.96810318359339
+        "timestamp": 1790901760,
+        "value": 118.61721893315551
       },
       {
-        "timestamp": 1790976170,
-        "value": 118.00731287696216
+        "timestamp": 1790988170,
+        "value": 119.04853672160873
       }
     ],
     "dexVolume": [
-      {
-        "timestamp": 1788480000,
-        "value": 1934557465.01
-      },
       {
         "timestamp": 1788566400,
         "value": 1914825076.84
@@ -301,7 +297,11 @@
       },
       {
         "timestamp": 1790985600,
-        "value": 2204429250.9300003
+        "value": 805448195.1
+      },
+      {
+        "timestamp": 1791072000,
+        "value": 805448189.1
       }
     ],
     "tvl": [
@@ -423,7 +423,7 @@
       },
       {
         "timestamp": 1790985600,
-        "value": 6663604978
+        "value": 6615708751
       }
     ]
   },
@@ -440,49 +440,49 @@
       "label": "DefiLlama DEX Volume",
       "url": "https://api.llama.fi/overview/dexs/Solana?excludeTotalDataChart=false&excludeTotalDataChartBreakdown=true&dataType=dailyVolume",
       "status": "live",
-      "latencyMs": 217
+      "latencyMs": 1353
     },
     {
       "id": "price",
       "label": "DefiLlama Price",
       "url": "https://coins.llama.fi/prices/current/coingecko:solana",
       "status": "live",
-      "latencyMs": 194
+      "latencyMs": 519
     },
     {
       "id": "price_history",
       "label": "DefiLlama Price History",
-      "url": "https://coins.llama.fi/chart/coingecko:solana?start=1790457789&span=7&period=1d",
+      "url": "https://coins.llama.fi/chart/coingecko:solana?start=1790469743&span=7&period=1d",
       "status": "live",
-      "latencyMs": 321
+      "latencyMs": 1335
     },
     {
       "id": "rpc",
       "label": "Solana RPC",
       "url": "https://api.mainnet-beta.solana.com",
       "status": "live",
-      "latencyMs": 7211
+      "latencyMs": 6174
     },
     {
       "id": "stables",
       "label": "DefiLlama Stablecoins",
       "url": "https://stablecoins.llama.fi/stablecoinchains",
       "status": "live",
-      "latencyMs": 121
+      "latencyMs": 210
     },
     {
       "id": "tvl",
       "label": "DefiLlama TVL",
       "url": "https://api.llama.fi/v2/chains",
       "status": "live",
-      "latencyMs": 218
+      "latencyMs": 195
     },
     {
       "id": "tvl_history",
       "label": "DefiLlama TVL History",
       "url": "https://api.llama.fi/v2/historicalChainTvl/Solana",
       "status": "live",
-      "latencyMs": 208
+      "latencyMs": 202
     }
   ]
 }
