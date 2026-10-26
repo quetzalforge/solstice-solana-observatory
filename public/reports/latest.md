@@ -1,16 +1,16 @@
 # Solstice — Solana Ecosystem Pulse
 
-Generated: 2026-10-26T00:26:25.015376Z
+Generated: 2026-10-26T06:20:53.922611Z
 
 ## Network
 
 | Metric | Value |
 | --- | ---: |
 | Health | ok |
-| Slot | 461,460,138.00 |
-| Epoch | 1,068.00 (19.48%) |
-| TPS | 2,245.18 |
-| Slot time | 209.06 ms |
+| Slot | 461,560,191.00 |
+| Epoch | 1,068.00 (42.64%) |
+| TPS | 1,126.18 |
+| Slot time | 213.52 ms |
 
 ## Validators
 
@@ -24,10 +24,10 @@ Generated: 2026-10-26T00:26:25.015376Z
 
 | Metric | Value |
 | --- | ---: |
-| SOL price | 101.30 USD |
-| Solana TVL | 5,758,003,976.26 USD |
-| Stablecoin supply | 15,523,704,914.24 USD |
-| DEX volume (24h) | 1,365,252,576.27 USD |
+| SOL price | 101.08 USD |
+| Solana TVL | 5,725,740,300.02 USD |
+| Stablecoin supply | 15,568,121,493.54 USD |
+| DEX volume (24h) | 1,348,649,838.27 USD |
 
 ## Signals
 
